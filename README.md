@@ -2,8 +2,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/XNHli3vOkdEAAAAd/discord-profile-picture.gif"  />
+<div align="left">
+  <img height="300" src="https://media1.tenor.com/m/XNHli3vOkdEAAAAd/discord-profile-picture.gif"  />
 </div>
 
 ###
