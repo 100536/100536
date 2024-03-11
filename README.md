@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">✨ Im 17 years old<br>📚 I'm currently learning at GLR software dev<br>🎯 How long do i code: I code for almost 1 year</p>
+<p align="left">✨ Im 17 years old<br>📚 I'm a student software developer.<br>🎯 How long do i code: I code for almost 1 year</p>
 
 ###
 
