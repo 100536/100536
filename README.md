@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">✨ Im 17 years old.<br>📚 I'm a student software developer.<br>🎯 I have coded for almost 1 year.</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=295BF7&random=true&width=435&lines=+I'm+a+student+software+developer.;Im+17+years+old;I+have+coded+for+almost+1+year." alt="Typing SVG" /></a>
 
 ###
 
