@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=295BF7&background=B528FF00&multiline=true&random=false&width=435&height=85&lines=+I'm+a+student+software+developer.;Im+17+years+old.;I+have+coded+for+almost+1+year." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=295BF7&background=B528FF00&multiline=true&random=false&width=435&height=85&lines=+I'm+a+student+software+developer.;Im+18+years+old.;I+have+coded+for+almost+1+year." alt="Typing SVG" /></a>
 ###
 
 <div align="center">
