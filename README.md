@@ -52,12 +52,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=295BF7&background=B528FF00&multiline=true&random=false&width=435&height=85&lines=+I'm+a+student+software+developer.;Im+19+years+old.;I+have+coded+for+almost+2+year." alt="Typing SVG" /></a>
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/100536/count.svg?"  />
-</div>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
