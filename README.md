@@ -25,29 +25,7 @@
 
 <h2 align="left">About me</h2>
 
-###
 
-<div align="left">
-  <a href="https://discordapp.com/users/960969349781405706" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-
-  <a href="https://codepen.io/100536" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  
-  <a href="https://www.twitch.tv/tntowllca/about" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-
-  <a href="https://www.youtube.com/@TNTOwlLCA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=295BF7&background=B528FF00&multiline=true&random=false&width=435&height=85&lines=+I'm+a+student+software+developer.;Im+19+years+old.;I+have+coded+for+3+year." alt="Typing SVG" /></a>
 ###
