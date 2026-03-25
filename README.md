@@ -1,10 +1,9 @@
-<h1 align="left">Hey 👋 My name is Lucas</h1>
-
-###
+<h1 align="left">Hey 👋 I'm Lucas</h1>
 
 <div align="left">
-  <img height="300" src="https://media1.tenor.com/m/XNHli3vOkdEAAAAd/discord-profile-picture.gif"  />
+  <img height="260" src="https://media1.tenor.com/m/XNHli3vOkdEAAAAd/discord-profile-picture.gif" alt="animated banner" />
 </div>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -20,47 +19,82 @@
   />
 </picture>
 
-
-###
+---
 
 <h2 align="left">About me</h2>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=295BF7&background=B528FF00&multiline=true&random=false&width=720&height=110&lines=19-year-old+Student+Software+Developer.;3+years+of+coding+experience.;Currently+doing+an+internship+and+improving+my+CSS+skills." alt="Typing SVG" />
 
+<p align="left">
+I'm Lucas, a student software developer with 3 years of coding experience.<br><br>
+I enjoy creating clean and creative digital projects, with a strong interest in web development and UI design.<br>
+I work with <strong>HTML, CSS, JavaScript, and PHP</strong>, and I'm currently learning <strong>C#</strong> and <strong>Unity</strong>.<br><br>
+I'm currently doing an internship, where I continue to improve my development skills and get better at working with <strong>CSS</strong> and frontend design.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=295BF7&background=B528FF00&multiline=true&random=false&width=435&height=85&lines=+I'm+a+student+software+developer.;Im+19+years+old.;I+have+coded+for+3+year." alt="Typing SVG" /></a>
-###
+---
 
-<h2 align="left">I code with</h2>
+<h2 align="left">What I can do</h2>
 
-###
+<p align="left">
+• Build responsive websites with HTML, CSS, and JavaScript<br>
+• Create and style user interfaces with a clean design<br>
+• Work with PHP for backend basics and dynamic websites<br>
+• Use Git and GitHub for version control<br>
+• Work in Visual Studio Code efficiently<br>
+• Design and improve layouts and prototypes<br>
+• Keep learning and improving my coding skills every day
+</p>
+
+---
+
+<h2 align="left">Currently learning</h2>
+
+<p align="left">
+• C#<br>
+• Unity<br>
+• Better frontend structure and cleaner UI/UX
+</p>
+
+---
+
+<h2 align="left">Tech stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
-###
+---
+
+<h2 align="left">Contact</h2>
+
+<p align="left">
+📧 Business email: <a href="mailto:contact@lucasaskamp.nl">contact@lucasaskamp.nl</a><br>
+🌐 Portfolio: <a href="https://lucasaskamp.nl">lucasaskamp.nl</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/lucasaskamp/">linkedin.com/in/lucasaskamp</a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=100536&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=100536&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=100536&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=100536&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
-###
