@@ -41,7 +41,7 @@ I'm currently doing an internship, where I continue to improve my development sk
 • Create and style user interfaces with a clean design<br>
 • Work with PHP for backend basics and dynamic websites<br>
 • Use Git and GitHub for version control<br>
-• Work in Visual Studio Code efficiently<br>
+• Work in Visual Studio/Code efficiently<br>
 • Design and improve layouts and prototypes<br>
 • Keep learning and improving my coding skills every day
 </p>
